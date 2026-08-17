@@ -1,4 +1,4 @@
-
+ 
 # 📋 Task Management System
 
 A robust, console-based Task Management application built with Java, demonstrating core Object-Oriented Programming (OOP) principles, clean architecture, and modern date handling.
@@ -47,7 +47,7 @@ Any Java IDE (IntelliJ IDEA, NetBeans, Eclipse, VS Code) or Terminal
 Run via Terminal
 Bash
 # Clone the repository
-git clone [https://github.com/silacicek0/-TaskManagementApp.git](https://github.com/silacicek0/-TaskManagementApp.git)
+git clone https://github.com/silacicek0/-TaskManagementApp.git
 
 # Navigate to project directory
 cd -TaskManagementApp/src
